@@ -7,7 +7,8 @@ This repository contains a simple calculator developed in Java. The project aims
 To clone this project, follow the steps below:
 
 1. **Make sure Java 8+** is installed on your computer.
-    ``Windos:
+    ```bash
+     Windos:
        java -version
      Linux:
       java --version
