@@ -9,6 +9,7 @@ To clone this project, follow the steps below:
 1. **Make sure Java 8+** is installed on your computer.
     ``Windos:
        java -version
+   
     ``Linux:
       java --version
 3. Open the terminal or command prompt.
