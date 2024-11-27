@@ -8,18 +8,20 @@ To clone this project, follow the steps below:
 
 1. **Make sure Java 8+** is installed on your computer.
     ```bash
-     Windos:
-       java -version
-     Linux:
-      java --version
+     Windos: java -version
+     Linux: java --version
+    
 3. Open the terminal or command prompt.
-4. Navigate to the directory where you want to clone the project.
+4. 
+5. Navigate to the directory where you want to clone the project.
    ```bash
    cd repository-name
-5. Run the following command:
+   
+6. Run the following command:
     ```bash
    git clone https://github.com/MatheusHenriqueDevz/JAVA-Calculator
-6. Compile and run the code:
+    
+7. Compile and run the code:
    ```bash
    javac Calculadora.java
    java Calculadora
