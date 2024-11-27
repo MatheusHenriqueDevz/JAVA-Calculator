@@ -1,11 +1,21 @@
-<h1>JAVA CALCULATOR</h1>
-<br>
-<h2>This repository contains a simple calculator developed in Java. The project aims to provide a functional and modular implementation of a calculator that supports basic mathematical operations such as addition, subtraction, multiplication and division.</h2>
-<br>
-<h3>Pre-requisites</h3>
-<hr>
-<ul>
-  <li><strong>Java 8+</strong>strong> installed on your computer.</li>
-</ul>
-<br>
-<h3>Steps to Execute</h3>
+# Java Calculator
+
+This repository contains a simple calculator developed in Java. The project aims to provide a functional and modular implementation of a calculator that supports basic mathematical operations such as addition, subtraction, multiplication and division.
+
+  ## Cloning the Project
+
+To clone this project, follow the steps below:
+
+1. **Make sure Java 8+** is installed on your computer.
+    **Windos:** java -version
+    **Linux:** java --version
+2. Open the terminal or command prompt.
+3. Navigate to the directory where you want to clone the project.
+   **cd** repository-name
+4. Run the following command:
+    ```bash
+   git clone https://github.com/MatheusHenriqueDevz/JAVA-Calculator
+5. Compile and run the code:
+   ```bash
+   javac Calculadora.java
+   java Calculadora
